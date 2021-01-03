@@ -8,8 +8,8 @@ of implementation is that of a content-based recommendation system, which recomm
 file. The dataset may be found at the following link:
 https://www.kaggle.com/rmisra/news-category-dataset
 3. Install the following modules in the command line as:
-pip install numpy
-pip install pandas
-pip install plotly
-pip install nltk
-pip install sklearn
+- pip install numpy
+- pip install pandas
+- pip install plotly
+- pip install nltk
+- pip install sklearn
